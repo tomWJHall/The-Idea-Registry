@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ideas",
+            "request": "launch",
+            "mainClass": "Ideas",
+            "projectName": "firstJavaProject_d487f9ef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ideas",
+            "request": "launch",
+            "mainClass": "Ideas",
+            "projectName": "firstJavaProject_3cd16672"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ideas",
+            "request": "launch",
+            "mainClass": "Ideas",
+            "projectName": "firstJavaProject_3ea44740"
+        },
+        {
+            "type": "android",
+            "request": "launch",
+            "name": "Android Launch",
+            "appSrcRoot": "C:/Users/Tom/AndroidStudioProjects/MyFirstApp/app/src/main",
+            "apkFile": "C:/Users/Tom/AndroidStudioProjects/MyFirstApp/app/build/outputs/apk/debug/app-debug.apk",
+            "adbPort": 5037
+        }
+    ]
+}
