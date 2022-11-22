@@ -1,18 +1,6 @@
-## Getting Started
+This Java project is a simple software that allows users to create, store, and check their projects. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A project can be store as one of 2 types: An Embedded System (ES), or an Application (App).
+The projects are stored in the text file appSynthesis.txt at the root of the project, and each one is stored as: [[Name of the project], [Type of project], [Descirption of the project], [Level of importance of this project]].
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This program, kept within one Java file, was started in late December 2021, done in about 4 days, and updated in a few hours on the 22nd of November 2022.
